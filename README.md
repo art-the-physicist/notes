@@ -3,4 +3,4 @@
 An assortment of answers to various questions you encounter studying physics at university. 
 
 # Particle Physics
-[Deriving Dirac's Equation](year4/particle_physics/DIRAC EQUATION DERIVATION.pdf)
+[Why is Dirac's Equation $i\gamma^{\mu}\partial_{\mu}\psi=m\psi?](year4/particle_physics/DIRAC EQUATION DERIVATION.pdf)
