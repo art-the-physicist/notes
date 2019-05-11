@@ -2,6 +2,10 @@
 
 An assortment of answers to various questions you encounter studying physics at university. 
 
+# General Relativity
+
+[The twin paradox - what the twins really see](year4/general_relativity/GR_TWINS.pdf)
+
 # Hydrodynamics
 
 [Cup of tea and Kolmogorov scaling](year4/hydrodynamics/CUP OF TEA.pdf)
