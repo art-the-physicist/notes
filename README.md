@@ -4,7 +4,7 @@ An assortment of answers to various questions you encounter studying physics at 
 
 # General Relativity
 
-[The twin paradox - what the twins really see](year4/general_relativity/GR_TWINS.pdf)
+[The twin paradox - what the twins really see](year4/general_relativity/GR TWINS.pdf)
 
 # Hydrodynamics
 
