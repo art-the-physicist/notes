@@ -6,6 +6,8 @@ An assortment of answers to various questions you encounter studying physics at 
 
 [The twin paradox - what the twins really see](year4/general_relativity/GR TWINS.pdf)
 
+[I want to see the future of Earth in one billion years, how do go about it?](year4/general_relativity/GR FUTURE.pdf)
+
 # Hydrodynamics
 
 [Cup of tea and Kolmogorov scaling](year4/hydrodynamics/CUP OF TEA.pdf)
