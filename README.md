@@ -32,6 +32,6 @@ An assortment of answers to various questions you encounter studying physics at 
 # Answers to Exam Papers set at the Physics Department at Imperial College London 
 Mark schemes are not available for these questions
 
-Advanced Particle Physics 2017 [Q4](year4/particle_physics/exam_solutions/APP 2017 Q4 ANS)
+*Advanced Particle Physics 2017* [Q4](year4/particle_physics/exam_solutions/APP 2017 Q4 ANS.pdf)
 
-[Q5](year4/particle_physics/exam_solutions/APP 2017 Q4 ANS)
+[Q5](year4/particle_physics/exam_solutions/APP 2017 Q5 ANS.pdf)
