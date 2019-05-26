@@ -2,11 +2,6 @@
 
 An assortment of answers to various questions you encounter studying physics at university. 
 
-# General Relativity
-
-[The twin paradox - what the twins really see](year4/general_relativity/GR TWINS.pdf)
-
-[I want to see the future of Earth in one billion years, how do go about it?](year4/general_relativity/GR FUTURE.pdf)
 
 # Hydrodynamics
 
@@ -27,3 +22,9 @@ An assortment of answers to various questions you encounter studying physics at 
 
 # Particle Physics
 [Why is Dirac's Equation](year4/particle_physics/DIRAC EQUATION DERIVATION.pdf) ![Dirac's Equation](http://www.sciweavers.org/tex2img.php?eq=i%5Cgamma%5E%7B%5Cmu%7D%5Cpartial_%7B%5Cmu%7D%5Cpsi%3Dm%5Cpsi&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)?
+
+# Special Relativity
+
+[The twin paradox - what the twins really see](year4/general_relativity/GR TWINS.pdf)
+
+[I want to see the future of Earth in one billion years, how do go about it?](year4/general_relativity/GR FUTURE.pdf)
